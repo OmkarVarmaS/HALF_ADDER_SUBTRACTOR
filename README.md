@@ -66,7 +66,7 @@ Program to design a half adder and full adder circuit and verify its truth table
      assign borrow= ( ~a & b);
      endmodule
 
-Developed by: Raagavi RM RegisterNumber: 24900010
+Developed by: Omkar Varma SRegisterNumber: 24008163
 
 **RTL Schematic**
 
